@@ -1,0 +1,4 @@
+[
+  { "id": 1, "owner": "John Doe", "contact": "123-456-7890", "source": "api2" },
+  { "id": 3, "address": "789 Oak St", "price": 200000, "source": "api2" }
+]

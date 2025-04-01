@@ -1,0 +1,4 @@
+[
+  { "id": 1, "address": "123 Main St", "price": 100000, "source": "api1" },
+  { "id": 2, "address": "456 Elm St", "price": 150000, "source": "api1" }
+]
